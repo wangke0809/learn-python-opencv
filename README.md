@@ -20,6 +20,12 @@ jupyter notebook
 
 ## 学习内容
 
-1. [初识图像](http://)  
-2. 
+1. [初识图像](https://github.com/wangke0809/learn-python-opencv/blob/master/notebook/1.ipynb)  
+2. [绘制图形](https://github.com/wangke0809/learn-python-opencv/blob/master/notebook/2.ipynb)
+3. [鼠标事件](https://github.com/wangke0809/learn-python-opencv/blob/master/notebook/3.ipynb)
+4. [使用滑动条](https://github.com/wangke0809/learn-python-opencv/blob/master/notebook/4.ipynb)
+5. [图像的基本操作](https://github.com/wangke0809/learn-python-opencv/blob/master/notebook/5.ipynb)
 
+
+
+暂时学这么多，想想目前也用不太多，之后用到再看文档继续学...
