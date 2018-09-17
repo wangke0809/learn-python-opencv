@@ -14,9 +14,9 @@
 
 ## 运行环境
 
-Python3.5+
-opencv-python3.4.2+
-jupyter notebook
+Python3.5+  
+opencv-python3.4.2+  
+jupyter notebook  
 
 ## 学习内容
 
